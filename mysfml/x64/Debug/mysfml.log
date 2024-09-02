@@ -1,0 +1,16 @@
+﻿  finalgame.cpp
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(92,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(92,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(95,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(95,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(107,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(107,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(109,20): warning C4305: 'initializing': truncation from 'int' to 'bool'
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(137,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(146,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(180,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(181,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(182,48): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(1381,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\mysfml\finalgame.cpp(1381,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  mysfml.vcxproj -> C:\Users\haide\OneDrive - FAST National University\Desktop\Project(12_Bead_Game)\x64\Debug\mysfml.exe
